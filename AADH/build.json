@@ -1,0 +1,8 @@
+{
+  "manifest" :
+  {
+    "autoPermissions": false,
+    "minSdkVersion" : 23,
+    "targetSdkVersion" : 26
+  }
+}
